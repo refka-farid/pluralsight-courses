@@ -2,3 +2,4 @@ commit tagging samples:
 [general]
 [beginner-1-java]
 [beginner-1-kotlin]
+[beginner-2-java-test]
